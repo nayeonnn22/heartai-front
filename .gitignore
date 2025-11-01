@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+
+*.py
+__pycache__/
+requirements.txt
